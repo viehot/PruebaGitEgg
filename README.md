@@ -1,6 +1,6 @@
 # PruebaGitEgg
 
-## DEVELOPERS:
+## DEVELOPERS :computer: 
 
 * Cristian La Spina
 * Cecilia Nuñez
